@@ -1,1 +1,1 @@
-print('test')
+import tkinter as tk
